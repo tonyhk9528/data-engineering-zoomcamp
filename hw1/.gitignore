@@ -1,0 +1,16 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.crash.log
+
+key/
+*.json
+
+*credentials*
+*service-account*
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
